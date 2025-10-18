@@ -1,6 +1,6 @@
 import React from "react";
 import { useState, useEffect, useMemo } from "react";
-import userPhoto from "../assets/ebook-pica.png";
+import userPhoto from "../assets/ebook-pica.webp";
 import { motion } from "framer-motion";
 import type { Variants } from "framer-motion";
 import { Link } from "react-scroll";
